@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<< HEAD
 # FrameFlow — Sliding Window Protocol Simulator
 
 FrameFlow is a Streamlit computer-networks project for exploring Go-Back-N and Selective Repeat ARQ. It includes the original single-protocol walkthrough, a paired protocol comparison, and a performance analytics workspace.
